@@ -1,0 +1,7 @@
+mongo db atlas:
+
+pwd
+uZI1DXDeUYxYfpag
+
+username:
+naveenkalburgis_db_user
